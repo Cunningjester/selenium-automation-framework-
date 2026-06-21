@@ -6,7 +6,7 @@ import base.BaseTest;
 import pages.LoginPage;
 
 public class LoginTest extends BaseTest{
-	
+	// Testing on feature branch
 	@Test
 	public void testValidLogin() {
 		LoginPage loginPage = new LoginPage(driver);
